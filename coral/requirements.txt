@@ -1,0 +1,10 @@
+# Dependencias para Coral Dev Board
+
+# Core dependencies
+numpy>=1.19.0
+opencv-python>=4.5.0
+scikit-learn>=0.24.0
+tflite-runtime>=2.5.0
+
+# Nota: pycoral debe instalarse desde apt en el Coral
+# sudo apt-get install python3-pycoral
